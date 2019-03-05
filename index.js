@@ -64,6 +64,8 @@ function removeFromCart(item) {
   return "That item is not in your cart."
 }
 
+// still trying to figure out where to put the reutrn functions in what bracket section, but basically what the above function does is check if the item is already in the cart, and removes that item from the cart if so. If not, the statement "That item is not in your cart." will be returned
+
 function placeOrder(cardNumber) {
-  // write your code here
+  
 }
